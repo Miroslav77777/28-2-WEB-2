@@ -13,6 +13,7 @@ header
     display: block;
     width: 100%;
     background-color: #eeee22;
+    height: 90px;
 }
 
 nav ul
@@ -217,4 +218,14 @@ td
 .nch
 {
     background-color: #45a247;
+}
+
+footer
+{
+    height: 250px;
+    width: 100%;
+    background-color: #45a247;
+    margin-top: 150px;
+    font-size: large;
+    font-weight: bold;
 }
