@@ -229,3 +229,7 @@ footer
     font-size: large;
     font-weight: bold;
 }
+
+.padval p
+{
+    margin-left: 20px;
