@@ -194,8 +194,7 @@ input
 table
 {
     border: 1px solid black;
-
-    margin: 20px auto;
+    margin: 20px 0;
 }
 
 th
